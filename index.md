@@ -15,9 +15,9 @@ Since May 2020, the Scottish Environment Protection Agency (SEPA) has been monit
 
 Currently, researchers at the University of Edinburgh are investigating whether different variants of SARS-CoV-2 can be detected and quantified in wastewater. This opens up the possibility to provide real-time data to PHS and related agencies to monitor and respond to new variants. 
  
- The SARS-CoV-2 prevalence in wastewater dataset is currently published in a preprint form on MedRxiv .[SARS-CoV-2 RNA levels in Scotland's wastewater](https://www.medrxiv.org/content/10.1101/2022.06.08.22276093v1)
-
+ The SARS-CoV-2 prevalence in wastewater dataset is now published in [Scientific Data](https://www.nature.com/articles/s41597-022-01788-3)
  
+  
  |Sampling locations for COVID detection wastewater ||
  |:-:|:-:|
  |[![sampling sites](figure_sites_geomap.jpg)](./geo-map-interactive.html) [*click for an interactive map*](./geo-map-interactive.html)  ||
