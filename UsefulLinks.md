@@ -4,6 +4,9 @@ title: COVID Wastewater Scotland
 {% include navbar.html %} 
 # Useful links
 
+> ## Scottish Environment Protection Agency (SEPA) SARS-Cov-2 monitoring
+> [RNA monitoring](https://informatics.sepa.org.uk/RNAmonitoring/) - Testing is conducted on incoming waste water samples collected by Scottish Water and its operators at 106 public waste water treatment works across the country, covering all 14 NHS Scotland health board areas. 
+
 > ## Covid Poops 19
 >
 > [COVIDPoops Twitter](https://twitter.com/COVIDPoops19)  - Tweeting/retweeting all things wastewater & SARS-CoV-2
